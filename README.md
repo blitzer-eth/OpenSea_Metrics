@@ -17,3 +17,5 @@ The dashboard is designed to track OpenSea’s evolution from a single-market NF
 * **OpenSea monthly NFTs sold:** Quantifies the total inventory movement by counting unique ERC-721 and ERC-1155 transfers.
 * **OpenSea monthly active users:** Measures unique monthly user retention and ecosystem growth over a multi-year timeframe.
 
+
+<img width="3734" height="3510" alt="image" src="https://github.com/user-attachments/assets/3f507ac3-e03a-450a-8c1d-473944d95c09" />
