@@ -6,6 +6,13 @@ This dashboard provides a deep-dive technical and financial analysis of **OpenSe
 
 The dashboard is designed to track OpenSea’s evolution from a single-market NFT platform into a multi-asset, multi-chain trading powerhouse using four core analytical modules.
 
+---
+
+## :camera_flash: Snapshot 
+<img width="3734" height="3510" alt="image" src="https://github.com/user-attachments/assets/3f507ac3-e03a-450a-8c1d-473944d95c09" />
+
+---
+
 ## 🔍 Query Breakdown
 
 ### 1. OpenSea Annualized Revenue:
@@ -39,6 +46,3 @@ The dashboard is designed to track OpenSea’s evolution from a single-market NF
 ### 8. OpenSea monthly active users:
 
 * Measures unique monthly user retention and ecosystem growth over a multi-year timeframe.
-
-## :camera_flash: Snapshot 
-<img width="3734" height="3510" alt="image" src="https://github.com/user-attachments/assets/3f507ac3-e03a-450a-8c1d-473944d95c09" />
